@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kumarmanishc
-- 👀 I’m worked in javascript and php frameworks
-- 🌱 I’m currently learning photography
-- 💞️ I’m looking to collaborate on javascript frameworks and packages.
+- 👀 I’m working in javascript and php frameworks
+- 🌱 Currently learning photography
+- 💞️ Looking to collaborate on javascript frameworks and packages.
 - 📫 Reach out to me on [Linked In](https://www.linkedin.com/in/kumarmanishc/)
 
 <!---
