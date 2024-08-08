@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kumarmanishc-blue?logo=linkedin)](https://www.linkedin.com/in/kumarmanishc)
 [![Twitter](https://img.shields.io/twitter/follow/kumarmanishc?style=social&logo=twitter)](https://twitter.com/kumarmanishc)
 [![Facebook](https://img.shields.io/badge/Facebook-kumarmanishc-blue?logo=facebook)](https://www.facebook.com/kumarmanishch)
-[![Instagram](https://img.shields.io/badge/Instagram-kumarmanishc-orange?logo=instagram)](https://www.instagram.com/kumarmanishc_)
+[![](https://img.shields.io/badge/Instagram-kumarmanishc-orange?logo=instagram)](https://www.instagram.com/kumarmanishc_)
 
 ## About Me
 - 👀 JavaScript and PHP frameworks enthusiast with Mobile App Development.
