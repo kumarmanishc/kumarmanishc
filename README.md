@@ -1,9 +1,9 @@
 # 👋 Hi, I'm [Manish](https://github.com/kumarmanishc)!
 ### JavaScript and PHP frameworks enthusiast with Mobile App Development
 ![Profile Views](https://komarev.com/ghpvc/?username=kumarmanishc&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kumarmanishc-blue?logo=linkedin)](https://www.linkedin.com/in/kumarmanishc)
-[![Twitter](https://img.shields.io/twitter/follow/kumarmanishc?style=social&logo=twitter)](https://twitter.com/kumarmanishc)
-[![Facebook](https://img.shields.io/badge/Facebook-kumarmanishc-blue?logo=facebook)](https://www.facebook.com/kumarmanishch)
+[![](https://img.shields.io/badge/LinkedIn-kumarmanishc-blue?logo=linkedin)](https://www.linkedin.com/in/kumarmanishc)
+[![](https://img.shields.io/twitter/follow/kumarmanishc?style=social&logo=twitter)](https://twitter.com/kumarmanishc)
+[![](https://img.shields.io/badge/Facebook-kumarmanishc-blue?logo=facebook)](https://www.facebook.com/kumarmanishch)
 [![](https://img.shields.io/badge/Instagram-kumarmanishc-orange?logo=instagram)](https://www.instagram.com/kumarmanishc_)
 
 ## About Me
